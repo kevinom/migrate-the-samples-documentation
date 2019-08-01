@@ -16,7 +16,7 @@ In this step, you add the target user, assumed to be Tom Reed's IBM Cloud accoun
 
 Sign on to IBM Cloud at <https://cloud.ibm.com/login>  
 You are prompted to enter your IBM Id.  
-Use the **kevin@ca.ibm.com** account to sign on.   
+Use the **kevinom@ca.ibm.com** account to sign on.   
 The password for this Intranet Id will be supplied to Tom Reed in a separate corporate email.   
 
 From the IBM Cloud account main menu, select **Manage > Access (IAM)**.   
@@ -47,7 +47,8 @@ Space roles=Developer
 ```   
    
 <img src="images/Screen Shot 2019-07-31 at 4.17.56 PM.png">   
-Scroll down in the page to add the user profile for the target account.   
+Scroll down in the page to add the user profile for the target account. 
+
 Select **Super user** for the user profile.   
 <img src="images/Screen Shot 2019-07-31 at 4.33.51 PM.png">    
 Finally, click **Invite users** at the bottom of the page in IBM Cloud.    
